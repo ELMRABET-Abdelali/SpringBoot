@@ -11,9 +11,14 @@ commande a mettre dans le terminal pour executer maven :
 mvnw  [default] compile -> test -> package -> verify
 
 on peut lancer l'application après compilation
+
 .\mvnw clean package 
+
 cd target 
+
 java -jar myCompiledFile.jar
+
+
 
 
 
