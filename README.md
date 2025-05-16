@@ -8,5 +8,8 @@
 // commande a mettre dans le terminal pour executer maven :
 .\mvnw clean compile
 
+// mvnw  [default] compile -> test -> package -> verify
+
+
 
 
