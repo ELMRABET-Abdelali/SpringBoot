@@ -5,6 +5,8 @@ il faut voir la version utilisé par defaut dans le terminal avec : java -versio
 
 pour mettre a jour la version par defaut : setx JAVA_HOME "C:\Program Files\Java\jdk-17" cas de JDK17
 
+aussi voir variables d'envirenements dans windows pour enlever les anciens path de jdk !!
+
 commande a mettre dans le terminal pour executer maven :
 .\mvnw clean compile
 
