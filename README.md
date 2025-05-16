@@ -30,6 +30,9 @@ resources > application.properties > server.port=8181
 
 resources > application.yml > server: port=8181
 
+config > envirenement vairables > SERVER_PORT=8080
+
+
 
 
 
