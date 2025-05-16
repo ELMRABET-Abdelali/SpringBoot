@@ -20,6 +20,11 @@ cd target
 
 java -jar myCompiledFile.jar
 
+on peut aussi executer l'application via spring boot plugin:
+
+.\mvnw spring-boot:run
+
+
 
 
 
