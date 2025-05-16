@@ -27,7 +27,10 @@ on peut aussi executer l'application via spring boot plugin:
 https://docs.spring.io/spring-boot/appendix/application-properties/index.html#appendix.application-properties.server
 
 resources > application.properties > server.port=8181
-resources > application.yml > server.port=8181
+
+resources > application.yml > server: port=8181
+
+
 
 
 
